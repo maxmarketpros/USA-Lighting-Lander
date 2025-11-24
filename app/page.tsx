@@ -232,7 +232,7 @@ export default function LandingPage() {
               </ul>
             </div>
             <div className="relative h-96 md:h-full min-h-[400px] rounded-xl overflow-hidden shadow-2xl">
-              <Image src="/images/5.jpg" alt="Beautiful Christmas lights on home" fill className="object-cover" />
+              <Image src="/images/6.jpg" alt="Beautiful Christmas lights on home" fill className="object-cover" />
             </div>
           </div>
         </div>
@@ -349,7 +349,7 @@ export default function LandingPage() {
               </div>
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Post-Holiday Removal</h3>
               <p className="text-gray-600 leading-relaxed text-pretty">
-                After the holidays, we return to carefully remove the lights and pack them away for you.
+                We take them down and leave your home just as before!
               </p>
             </div>
           </div>
