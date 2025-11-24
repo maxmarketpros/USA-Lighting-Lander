@@ -207,9 +207,9 @@ export default function LandingPage() {
               <p className="text-gray-700 text-lg mb-6 leading-relaxed text-pretty">
                 USA Lighting provides professional Christmas light installation for homeowners across Central Indiana.
                 From the moment you reach out, we help you design a custom lighting display that fits your home and your
-                budget. Our team safely installs your lights, checks every bulb, sets timers where needed, and returns
-                after the season to remove everything. You get a gorgeous, magazine-worthy display — without spending a
-                single weekend on a ladder in the cold.
+                budget. Our team brings the lights, safely installs them, checks every bulb, sets timers where needed,
+                and returns after the season to remove everything. You get a gorgeous, magazine-worthy display — without
+                spending a single weekend on a ladder in the cold.
               </p>
               <ul className="space-y-3 mb-8">
                 <li className="flex items-start">
