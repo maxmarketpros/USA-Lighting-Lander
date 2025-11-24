@@ -188,8 +188,8 @@ export default function LandingPage() {
                 </div>
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Hassle-Free Removal & Storage</h3>
                 <p className="text-gray-600 leading-relaxed text-pretty">
-                  When the holidays are over, we come back to carefully remove and pack up your lights — so you don't
-                  have to.
+                  When the holidays are over, we come back to carefully remove and pack up your lights —
+                  so you don't have to.
                 </p>
               </CardContent>
             </Card>
