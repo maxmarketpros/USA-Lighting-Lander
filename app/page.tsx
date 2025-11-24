@@ -105,8 +105,7 @@ export default function LandingPage() {
               Professional Christmas Light Installation in Central Indiana
             </h1>
             <p className="text-xl md:text-2xl text-white/95 mb-8 leading-relaxed text-pretty">
-              Sit back and enjoy the holidays while we design, install, and remove your Christmas lights — safely and
-              beautifully.
+              Sit back and enjoy the holidays while we design, install, and remove the lights — safely and beautifully.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 mb-6">
               <a href="tel:3174954534">
@@ -337,8 +336,7 @@ export default function LandingPage() {
               </div>
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Professional Installation</h3>
               <p className="text-gray-600 leading-relaxed text-pretty">
-                Our team installs your lights safely and efficiently, testing every bulb and setting up timers if
-                needed.
+                Our team installs the lights safely and efficiently, testing every bulb and setting up timers if needed.
               </p>
             </div>
 
